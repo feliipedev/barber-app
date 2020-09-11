@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Barber" title="#App Barber" src="src/img/img.jpg" />
+    <img alt="Barber" title="#App Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img.jpg" />
 </h1>
 
 <h4 align="center"> 
@@ -37,13 +37,15 @@ O layout tem efeitos bem suaves e contrastes atuais proporcionando uma boa usabi
 ### Mobile
 
 <p align="center">
-  <img alt="Barber" title="#Barber" src="" width="200px">
+  <img alt="Barber" title="#Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img1.jpg" width="200px">
 
-  <img alt="Barber" title="#Barber" src="" width="200px">
+  <img alt="Barber" title="#Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img2.jpg" width="200px">
 
-  <img alt="Barber" title="#Barber" src="" width="200px">
+  <img alt="Barber" title="#Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img3.jpg" width="200px">
 
-  <img alt="Barber" title="#Barber" src="" width="200px">
+  <img alt="Barber" title="#Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img4.jpg" width="200px">
+
+  <img alt="Barber" title="#Barber" src="https://raw.githubusercontent.com/jeandsontb/Barber/master/src/assets/img/img5.jpg" width="200px">
 </p>
 
 ## 🛠 Tecnologias
@@ -69,7 +71,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js][nodejs] e SDK configurado. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Rodando a aplicação 
 
 ```bash
 # Clone este repositório
