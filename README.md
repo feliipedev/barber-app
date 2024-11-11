@@ -101,4 +101,4 @@ Feito com ❤️ e dedicação por Jeandson Tenorio 👋🏽 [Mais a meu respeit
 [nodejs]: https://nodejs.org/
 [reactnative]: https://reactnative.dev/
 [yarn]: https://yarnpkg.com/
-[vscode]: https://code.visualstudio.com/
+[vscode]: https://code.visualstudio.com/# barber
